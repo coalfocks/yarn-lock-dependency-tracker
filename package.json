@@ -1,5 +1,5 @@
 {
-  "name": "yarn-lock-package-tracker",
+  "name": "yarn-lock-dependency-tracker",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
